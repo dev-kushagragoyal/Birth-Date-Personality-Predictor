@@ -1,3 +1,6 @@
+# Disclaimer: This program is intended for entertainment purposes only. The results generated are based on simple mathematical calculations and do not represent actual
+# psychological analysis, medical advice, or factual personality assessments. Please use this script responsibly and for fun.
+
 import time
 
 a = "Intelligent"
