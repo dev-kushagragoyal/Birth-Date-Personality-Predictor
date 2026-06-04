@@ -4,7 +4,7 @@
 import time
 
 a = "Intelligent"
-b = "Aggressive""
+b = "Aggressive"
 c = "Beautiful / Handsome"
 d = "Simple life liver"
 
